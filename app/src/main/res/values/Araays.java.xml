@@ -1,0 +1,8 @@
+<resources>
+    <string-array name="major_options">
+        <item>@string/major_select</item>
+        <item>@string/major_software</item>
+        <item>@string/major_electronics</item>
+        <item>@string/major_media</item>
+    </string-array>
+</resources>

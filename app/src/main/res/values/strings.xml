@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">טופס הרשמה לתלמיד</string>
+    <string name="title_registration">הרשמת תלמיד</string>
+
+    <!-- Hints & Labels -->
+    <string name="hint_first_name">שם פרטי</string>
+    <string name="hint_last_name">שם משפחה</string>
+    <string name="hint_email">אימייל</string>
+    <string name="select_grade">בחר כיתה</string>
+    <string name="major_title">בחר מגמת לימוד</string>
+    <string name="receive_notifications">אני רוצה לקבל התראות</string>
+    <string name="accept_terms">אני מאשר את תנאי השימוש</string>
+
+    <!-- Grade Options -->
+    <string name="grade_10">כיתה י\'</string>
+    <string name="grade_11">כיתה י״א</string>
+    <string name="grade_12">כיתה י״ב</string>
+
+    <!-- Spinner Options -->
+    <string name="major_select">בחר מגמה...</string>
+    <string name="major_software">הנדסת תוכנה</string>
+    <string name="major_electronics">אלקטרוניקה</string>
+    <string name="major_media">תקשורת</string>
+
+    <!-- Button -->
+    <string name="action_submit">התחברות / שמירה</string>
+
+    <!-- Errors -->
+    <string name="error_first_name">יש להזין שם פרטי</string>
+    <string name="error_last_name">יש להזין שם משפחה</string>
+    <string name="error_email_required">יש להזין אימייל</string>
+    <string name="error_email_invalid">כתובת האימייל אינה תקינה</string>
+    <string name="error_select_grade">יש לבחור כיתה</string>
+    <string name="error_select_major">יש לבחור מגמה</string>
+    <string name="error_accept_terms">חובה לאשר את תנאי השימוש</string>
+
+    <!-- Summary Template -->
+    <string name="student_summary">שם: %1$s | אימייל: %2$s | כיתה: %3$s | מגמה: %4$s</string>
+</resources>
